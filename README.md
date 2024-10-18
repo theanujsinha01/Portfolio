@@ -1,4 +1,4 @@
-# Portfolio
+
 # Portfolio Website
 
 Welcome to my personal portfolio website! This website showcases my skills, projects, and experience as an aspiring data scientist. It provides information about my background, the tools I use, and the work I have done. This portfolio is built to help me connect with potential employers and collaborators.
